@@ -1,0 +1,8 @@
+.container {
+  background-color: #2f3338;
+  color: rgb(214,210,188);
+  font-size: 50px;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}

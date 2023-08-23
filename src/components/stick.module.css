@@ -1,0 +1,7 @@
+.stick{
+    width: 10px;
+    height: 140px;
+    position: absolute;
+    background-color: #c7c5b6;
+    border-radius: 10px;
+}
