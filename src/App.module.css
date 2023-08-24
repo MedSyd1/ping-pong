@@ -6,3 +6,22 @@
   width: 100vw;
   height: 100vh;
 }
+
+.result{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top:10px ;
+  font-family: "Gill Sans", sans-serif;
+  color: #8F8E84;
+
+}
+
+.separator{
+  height: 80px;
+  width: 5px;
+  background-color: #8F8E84;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
